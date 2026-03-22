@@ -38,3 +38,18 @@
 
 // arithmetic operators: +, -, *, /, %, **
 // operator precedence: 1.parenthese 2.exponents 3.multiplication/division/module 4.addition/subtraction
+
+//Ways to accept user input
+// 1. EASY WAY: window.prompt()
+
+// let username;
+
+// username = window.prompt("What is your name?");
+
+// console.log(`Name:d ${username}`);
+
+// 2. PRO WAY: HTML textbox
+// document.getElementById("mySubmit").onclick = function(){
+//     let username = document.getElementById("myText").value;
+//     console.log(`Name: ${username}`);
+// }
