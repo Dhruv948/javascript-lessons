@@ -53,3 +53,25 @@
 //     let username = document.getElementById("myText").value;
 //     console.log(`Name: ${username}`);
 // }
+
+// const PI = 3.141;
+// let radius;
+// let circumference;
+
+// radius =window.prompt("Enter radius: ");
+// radius = Number(radius);
+
+// circumference = 2 * PI * radius;
+// console.log(`The circumference is ${circumference}`);
+
+// document.getElementById("mySubmit").onclick = function(){
+//     const PI = 3.141;
+//     let radius;
+//     let circumference;
+
+//     radius = document.getElementById("myText").value;
+//     radius = Number(radius);
+
+//     circumference = 2 * PI * radius;
+//     document.getElementById("myH2").textContent = circumference;
+// }
