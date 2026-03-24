@@ -75,3 +75,33 @@
 //     circumference = 2 * PI * radius;
 //     document.getElementById("myH2").textContent = circumference;
 // }
+
+let x = 3;
+let y = 2;
+let z;
+
+// z = Math.round(x); round off the value of x to the nearest integer
+// console.log(z);
+
+// z = Math.floor(x); round off the value of x to the nearest integer less than or equal to x
+// console.log(z);
+
+// z = Math.ceil(x); round off the value of x to the nearest integer greater than or equal to x
+// console.log(z);
+
+// z = Math.trunc(x);
+// console.log(z);
+
+// z = Math.pow(x, y); // x^y
+// console.log(z);
+
+// z = Math.sqrt(x); square root of x
+// console.log(z);
+
+// z = Math.log(x);
+// console.log(z);
+
+// z = Math.sign(x); the sign of x: 1 if x is positive, -1 if x is negative, 0 if x is 0
+// console.log(z);
+
+// you can use trigo functions also as well as max and min
