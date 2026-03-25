@@ -76,9 +76,9 @@
 //     document.getElementById("myH2").textContent = circumference;
 // }
 
-let x = 3;
-let y = 2;
-let z;
+// let x = 3;
+// let y = 2;
+// let z;
 
 // z = Math.round(x); round off the value of x to the nearest integer
 // console.log(z);
@@ -101,7 +101,7 @@ let z;
 // z = Math.log(x);
 // console.log(z);
 
-z = Math.sign(x); //the sign of x: 1 if x is positive, -1 if x is negative, 0 if x is 0
-console.log(z);
+// z = Math.sign(x); //the sign of x: 1 if x is positive, -1 if x is negative, 0 if x is 0
+// console.log(z);
 
 // you can use trigo functions also as well as max and min
