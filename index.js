@@ -105,3 +105,5 @@
 // console.log(z);
 
 // you can use trigo functions also as well as max and min
+
+// checked: it is a property of checkbox and radio input elements that indicates whether the element is checked or not. It returns a boolean value.
